@@ -6,3 +6,6 @@ comando en desarrollo
 para iniciar tauri
 
 cargo tauri dev
+cargo tauri build
+tauri url por si se me olvida algo:
+  https://tauri.app/  
